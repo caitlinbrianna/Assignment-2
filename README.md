@@ -10,16 +10,16 @@ The Ticker Watchlist Manager is composed of these components:
   - A Main Activity
    -Contains two fragments
     
-  -TickerListFragment
-    -Three default values
-    -Updates list with new Tickers
-    -Display maximum of 5 Tickers
-    -Sends URL to InfoWebFragment on item check
+  - TickerListFragment
+    - Three default values
+    - Updates list with new Tickers
+    - Display maximum of 5 Tickers
+    - Sends URL to InfoWebFragment on item check
     
-  -InfoWebFragment
-    -Loads URL in WebView
+  - InfoWebFragment
+    - Loads URL in WebView
     
-  -BroadcastReceiver/SMSReceiver
-    -Receives new sms broadcast
-    -Extracts message from broadcast
+  - BroadcastReceiver/SMSReceiver
+    - Receives new sms broadcast
+    - Extracts message from broadcast
   
