@@ -7,8 +7,8 @@ This assigment utilizes Fragments and Content Providers.
 
 The Ticker Watchlist Manager is composed of these components:
 
-  - A Main Activity
-   - Contains two fragments
+  - MainActivity
+    - Contains two fragments
     
   - TickerListFragment
     - Three default values
